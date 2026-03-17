@@ -9,9 +9,6 @@ Each voter generates a secret vote key and submits a commitment (hashed vote) to
 
 Step 2: Voting Process
 Voters submit their votes privately using a hash, without revealing their choice.# Experiment 5: Zero-Knowledge Proof (ZK) Private Voting System
-## Name:Sharon Steffani.F
-## Reg no:212223110049
-## Date:26/4/25
 # Aim:
 To implement a fully private and transparent voting system using Zero-Knowledge Proofs (ZKPs). This ensures that votes are counted fairly without revealing who voted for whom.
 
